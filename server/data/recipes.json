@@ -1,0 +1,522 @@
+[
+  {
+    "id": "ebose-rec-001",
+    "slug": "authentic-smoky-party-jollof-rice",
+    "title": "Authentic Smoky Party Jollof Rice with Fried Plantain & Suya Chicken",
+    "subtitle": "The ultimate party classic with deep firewood flavor, rich tomato-pepper reduction, and sweet dodo.",
+    "description": "Nothing compares to the aroma of genuine smoky Jollof rice. Crafted with Ebose's signature baked pepper reduction, basmati rice, and fragrant spices, this recipe brings the beloved West African party atmosphere right into your kitchen.",
+    "author": "Ebose",
+    "category": "Nigerian & West African",
+    "course": "Main Dish",
+    "diet": "Dairy-Free",
+    "prepTime": "25 mins",
+    "cookTime": "45 mins",
+    "totalTime": "70 mins",
+    "prepTimeMins": 25,
+    "cookTimeMins": 45,
+    "servings": 6,
+    "difficulty": "Medium",
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "youtubeUrl": "https://www.youtube.com/shorts/h-xN5N4ME3g?feature=share",
+    "instagramUrl": "https://www.instagram.com/eboses_kitchen_kronikles",
+    "imageUrl": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=1200&q=80",
+    "featured": true,
+    "trending": false,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "cups",
+        "metricAmount": 550,
+        "metricUnit": "g",
+        "item": "Long-grain parboiled or Golden Sella Basmati rice, thoroughly rinsed"
+      },
+      {
+        "amount": 5,
+        "unit": "large",
+        "metricAmount": 5,
+        "metricUnit": "pcs",
+        "item": "Red bell peppers (Tatashe), deseeded"
+      },
+      {
+        "amount": 1,
+        "unit": "can (14oz)",
+        "metricAmount": 400,
+        "metricUnit": "g",
+        "item": "Plum tomatoes or tomato purée"
+      },
+      {
+        "amount": 3,
+        "unit": "pcs",
+        "metricAmount": 3,
+        "metricUnit": "pcs",
+        "item": "Scotch bonnet peppers (Rodo) for signature heat"
+      },
+      {
+        "amount": 2,
+        "unit": "medium",
+        "metricAmount": 2,
+        "metricUnit": "pcs",
+        "item": "Red onions (1 blended, 1 sliced for frying)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "metricAmount": 120,
+        "metricUnit": "ml",
+        "item": "Vegetable oil or peanut oil"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "metricAmount": 45,
+        "metricUnit": "g",
+        "item": "Concentrated tomato paste"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "metricAmount": 480,
+        "metricUnit": "ml",
+        "item": "Rich homemade chicken stock"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "metricAmount": 15,
+        "metricUnit": "g",
+        "item": "Ebose's All-Purpose Spice Mix (Thyme, Curry, Bay Leaves, Garlic)"
+      },
+      {
+        "amount": 2,
+        "unit": "large",
+        "metricAmount": 2,
+        "metricUnit": "pcs",
+        "item": "Ripe yellow plantains, sliced into coins for dodo"
+      }
+    ],
+    "instructions": [
+      "Blend the red bell peppers, plum tomatoes, scotch bonnets, and 1 onion with minimal water until smooth.",
+      "In a heavy-bottomed Dutch oven, heat vegetable oil over medium heat. Add sliced onions and sauté for 4 minutes until translucent.",
+      "Add concentrated tomato paste and fry for 6-8 minutes, stirring continuously until dark red and oil begins to separate.",
+      "Pour in the blended pepper mixture. Season with thyme, curry powder, bay leaves, chicken bouillon, and sea salt. Cover and simmer for 20 minutes until reduced by half.",
+      "Pour in the hot chicken stock and bring the base to a rolling boil.",
+      "Add the thoroughly washed rice, stirring gently so it is evenly coated in the sauce. The liquid level should sit just barely above the rice.",
+      "Cover tightly with double foil and a snug lid. Reduce heat to very low and steam for 30 minutes without opening.",
+      "Uncover, stir gently from the bottom up to let the bottom slightly char for that prized smoky party aroma. Turn off heat and let sit for 10 minutes.",
+      "Fry the sliced plantains in golden oil until caramel brown and serve alongside the steaming Jollof!"
+    ],
+    "tips": "Double foiling the pot is key! Steam cooks Jollof rice perfectly, not excess water. Let the bottom singe slightly at the end for authentic party smoke.",
+    "nutrition": {
+      "calories": 520,
+      "protein": "14g",
+      "carbs": "78g",
+      "fat": "18g"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "userName": "Chioma A.",
+        "rating": 5,
+        "date": "2026-09-14",
+        "comment": "Ebose! This Jollof recipe hit every single nostalgia note from home. The smoky aroma was 100% spot on!"
+      },
+      {
+        "id": "rev-2",
+        "userName": "Marcus T.",
+        "rating": 5,
+        "date": "2026-09-20",
+        "comment": "The metric scaler feature helped me scale this up for a party of 12 effortlessly. Turned out absolute perfection."
+      }
+    ]
+  },
+  {
+    "id": "ebose-rec-002",
+    "slug": "creamy-garlic-butter-prawn-suya-pasta",
+    "title": "Creamy Garlic Butter Prawn Suya Pasta",
+    "subtitle": "Indulgent 20-minute fusion pasta loaded with succulent spicy prawns and velvety garlic cream sauce.",
+    "description": "Where Italian comfort food meets Northern Nigerian spicy suya zest! Succulent jumbo prawns seared with Yaji spice, tossed with fettuccine in a rich garlic parmesan cream sauce.",
+    "author": "Ebose",
+    "category": "30-Min Meals",
+    "course": "Dinner",
+    "diet": "Pescatarian",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "totalTime": "25 mins",
+    "prepTimeMins": 10,
+    "cookTimeMins": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 5,
+    "reviewsCount": 84,
+    "youtubeUrl": "https://www.youtube.com/embed/SRLjVm1_ueK",
+    "instagramUrl": "https://www.instagram.com/eboses_kitchen_kronikles",
+    "imageUrl": "https://images.unsplash.com/photo-1555949258-eb67b2808200?auto=format&fit=crop&w=1200&q=80",
+    "featured": true,
+    "trending": true,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "lb",
+        "metricAmount": 450,
+        "metricUnit": "g",
+        "item": "Jumbo prawns/shrimp, peeled and deveined"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "metricAmount": 30,
+        "metricUnit": "g",
+        "item": "Suya Yaji pepper spice blend"
+      },
+      {
+        "amount": 8,
+        "unit": "oz",
+        "metricAmount": 225,
+        "metricUnit": "g",
+        "item": "Fettuccine or Tagliatelle pasta"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "metricAmount": 42,
+        "metricUnit": "g",
+        "item": "Unsalted butter"
+      },
+      {
+        "amount": 5,
+        "unit": "cloves",
+        "metricAmount": 5,
+        "metricUnit": "cloves",
+        "item": "Garlic, finely minced"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "metricAmount": 240,
+        "metricUnit": "ml",
+        "item": "Heavy whipping cream"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "metricAmount": 50,
+        "metricUnit": "g",
+        "item": "Freshly grated Parmesan cheese"
+      },
+      {
+        "amount": 1,
+        "unit": "handful",
+        "metricAmount": 15,
+        "metricUnit": "g",
+        "item": "Fresh baby spinach leaves"
+      }
+    ],
+    "instructions": [
+      "Boil fettuccine pasta in salted water according to package directions until al dente. Reserve 1/2 cup pasta water, then drain.",
+      "Pat prawns dry, sprinkle with Suya Yaji spice and a pinch of salt.",
+      "Melt 1 tbsp butter in a skillet over medium-high heat. Sear prawns for 2 minutes per side until pink and charred. Set prawns aside on a warm plate.",
+      "In the same pan, lower heat and melt remaining butter. Add minced garlic and sauté for 1 minute until fragrant.",
+      "Pour in heavy cream and bring to a simmer. Stir in grated Parmesan until smooth and velvety.",
+      "Toss in cooked pasta, baby spinach, and reserved pasta water as needed. Stir until spinach wilts and sauce clings to pasta.",
+      "Top with seared Suya prawns, fresh parsley, and extra Yaji spice!"
+    ],
+    "tips": "Don't overcook the prawns! 2 minutes per side gives that crisp bite outside and juicy center.",
+    "nutrition": {
+      "calories": 580,
+      "protein": "32g",
+      "carbs": "44g",
+      "fat": "30g"
+    },
+    "reviews": [
+      {
+        "id": "rev-3",
+        "userName": "Amina K.",
+        "rating": 5,
+        "date": "2026-09-18",
+        "comment": "This Suya Prawn Pasta is now a weekly staple in our house. Quick, restaurant-quality, and explosive flavor!"
+      }
+    ]
+  },
+  {
+    "id": "ebose-rec-003",
+    "slug": "rich-egusi-soup-with-assorted-meats",
+    "title": "Rich Royal Egusi Soup with Assorted Meats & Pounded Yam",
+    "subtitle": "Velvety melon seed soup studded with tender goat meat, dried fish, stockfish, and fresh Ugu leaves.",
+    "description": "A comforting regal dish prepared with ground melon seeds, toasted crayfish, palm oil, and slow-braised meats. Served hot with fluffy pounded yam for an unforgettable feast.",
+    "author": "Ebose",
+    "category": "Soups & Stews",
+    "course": "Main Course",
+    "diet": "Gluten-Free",
+    "prepTime": "30 mins",
+    "cookTime": "50 mins",
+    "totalTime": "1 hr 20 mins",
+    "prepTimeMins": 30,
+    "cookTimeMins": 50,
+    "servings": 6,
+    "difficulty": "Medium",
+    "rating": 4.95,
+    "reviewsCount": 96,
+    "youtubeUrl": "https://www.youtube.com/embed/SRLjVm1_ueK",
+    "instagramUrl": "https://www.instagram.com/eboses_kitchen_kronikles",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80",
+    "featured": true,
+    "trending": false,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "metricAmount": 300,
+        "metricUnit": "g",
+        "item": "Raw ground Egusi (melon seeds)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "metricAmount": 120,
+        "metricUnit": "ml",
+        "item": "Bleached red palm oil"
+      },
+      {
+        "amount": 1.5,
+        "unit": "lbs",
+        "metricAmount": 700,
+        "metricUnit": "g",
+        "item": "Assorted meats (Goat meat, Beef chuck, Shaki / Tripe)"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "metricAmount": 150,
+        "metricUnit": "g",
+        "item": "Deboned Stockfish (Panla) soaked in warm water"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "metricAmount": 30,
+        "metricUnit": "g",
+        "item": "Ground dried crayfish"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "metricAmount": 100,
+        "metricUnit": "g",
+        "item": "Chopped Ugu (fluted pumpkin leaves) or Spinach"
+      },
+      {
+        "amount": 2,
+        "unit": "pcs",
+        "metricAmount": 2,
+        "metricUnit": "pcs",
+        "item": "Scotch bonnet peppers, coarsely blended"
+      }
+    ],
+    "instructions": [
+      "Season goat meat, beef, and shaki with onions, stock cubes, and salt. Cook until tender, reserving the concentrated meat broth.",
+      "Mix ground egusi with warm onion water to form a thick paste.",
+      "Heat palm oil in a wide pot. Fry onion slices until soft, then drop small balls of egusi paste into the oil.",
+      "Cover and fry on low heat for 10-12 minutes without stirring to create rich egusi lumps.",
+      "Gently stir in meat stock, blended scotch bonnets, and ground crayfish. Simmer for 15 minutes until egusi is fully cooked.",
+      "Add cooked meats and stockfish. Simmer for 10 minutes so flavors meld.",
+      "Stir in fresh chopped Ugu leaves, cook for 3 minutes, and remove from heat. Serve piping hot with pounded yam."
+    ],
+    "tips": "Frying the egusi in dollops on low heat gives it those delicious lump textures characteristic of authentic party Egusi!",
+    "nutrition": {
+      "calories": 610,
+      "protein": "42g",
+      "carbs": "16g",
+      "fat": "44g"
+    },
+    "reviews": [
+      {
+        "id": "rev-4",
+        "userName": "Efe O.",
+        "rating": 5,
+        "date": "2026-09-10",
+        "comment": "The lumpy method Ebose shares here is unbeatable. Taste just like Grandma's traditional cooking!"
+      }
+    ]
+  },
+  {
+    "id": "ebose-rec-004",
+    "slug": "golden-caramelized-puff-puff-bites",
+    "title": "Golden Caramelized Puff Puff with Salted Honey Drizzle",
+    "subtitle": "Pillow-soft, airy sweet dough balls fried to golden brown perfection with a modern honey glaze.",
+    "description": "An iconic street snack reimagined with Ebose's fluffy yeast dough infused with nutmeg, fried into crispy airy spheres and finished with a warm salted honey caramel drip.",
+    "author": "Ebose",
+    "category": "Desserts & Treats",
+    "course": "Snack / Dessert",
+    "diet": "Vegetarian",
+    "prepTime": "15 mins",
+    "cookTime": "15 mins",
+    "totalTime": "1 hr 30 mins (incl. proofing)",
+    "prepTimeMins": 15,
+    "cookTimeMins": 15,
+    "servings": 8,
+    "difficulty": "Easy",
+    "rating": 4.88,
+    "reviewsCount": 64,
+    "youtubeUrl": "https://www.youtube.com/embed/SRLjVm1_ueK",
+    "instagramUrl": "https://www.instagram.com/eboses_kitchen_kronikles",
+    "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1200&q=80",
+    "featured": false,
+    "trending": true,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "cups",
+        "metricAmount": 375,
+        "metricUnit": "g",
+        "item": "All-purpose flour"
+      },
+      {
+        "amount": 2.25,
+        "unit": "tsp",
+        "metricAmount": 7,
+        "metricUnit": "g",
+        "item": "Active dry yeast (1 packet)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "metricAmount": 100,
+        "metricUnit": "g",
+        "item": "Granulated sugar"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "metricAmount": 2.5,
+        "metricUnit": "g",
+        "item": "Freshly grated nutmeg"
+      },
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "metricAmount": 360,
+        "metricUnit": "ml",
+        "item": "Lukewarm water"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "metricAmount": 45,
+        "metricUnit": "ml",
+        "item": "Wild wildflower honey for drizzling"
+      }
+    ],
+    "instructions": [
+      "In a bowl, whisk flour, sugar, active dry yeast, nutmeg, and a pinch of salt.",
+      "Add lukewarm water gradually, mixing with your hands or a wooden spoon until a smooth, stretchable batter forms.",
+      "Cover bowl with cling film and a clean dish towel. Place in a warm spot to proof for 45-60 minutes until doubled in size with air bubbles.",
+      "Heat vegetable oil in a deep pot to 350°F (175°C).",
+      "Scoop batter with your palm, squeezing it through your thumb and index finger to form round balls directly into the hot oil.",
+      "Fry for 4-5 minutes, turning constantly until evenly golden brown and crisp.",
+      "Drain on paper towels, plate up, and drizzle generously with warm honey and a pinch of flaky sea salt!"
+    ],
+    "tips": "Make sure your water is lukewarm (~105°F), not hot, so it activates the yeast without killing it!",
+    "nutrition": {
+      "calories": 240,
+      "protein": "4g",
+      "carbs": "42g",
+      "fat": "6g"
+    },
+    "reviews": [
+      {
+        "id": "rev-5",
+        "userName": "Zainab B.",
+        "rating": 5,
+        "date": "2026-09-02",
+        "comment": "The honey drizzle elevates standard puff puff into a high-end dessert! My kids devoured them in minutes."
+      }
+    ]
+  },
+  {
+    "id": "ebose-rec-005",
+    "slug": "smoky-suya-spiced-lamb-chops",
+    "title": "Smoky Suya-Spiced Lamb Chops with Minted Cucumber Yogurt",
+    "subtitle": "Char-grilled tender lamb chops crusted in northern Yaji peanut spice with cooling cucumber dip.",
+    "description": "Flame-kissed lamb chops coated in authentic kuli-kuli Yaji spice blend, seared to juicy medium-rare perfection. Paired with a refreshing tzatziki-style mint yogurt.",
+    "author": "Ebose",
+    "category": "Healthy & Fusion",
+    "course": "Main Dish",
+    "diet": "Keto / High-Protein",
+    "prepTime": "15 mins",
+    "cookTime": "12 mins",
+    "totalTime": "27 mins",
+    "prepTimeMins": 15,
+    "cookTimeMins": 12,
+    "servings": 4,
+    "difficulty": "Easy",
+    "rating": 4.92,
+    "reviewsCount": 42,
+    "youtubeUrl": "https://www.youtube.com/embed/SRLjVm1_ueK",
+    "instagramUrl": "https://www.instagram.com/eboses_kitchen_kronikles",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80",
+    "featured": false,
+    "trending": true,
+    "ingredients": [
+      {
+        "amount": 8,
+        "unit": "pcs",
+        "metricAmount": 8,
+        "metricUnit": "pcs",
+        "item": "French-trimmed lamb chops"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "metricAmount": 45,
+        "metricUnit": "g",
+        "item": "Yaji Suya spice rub"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "metricAmount": 30,
+        "metricUnit": "ml",
+        "item": "Extra virgin olive oil"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "metricAmount": 240,
+        "metricUnit": "g",
+        "item": "Greek yogurt"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "metricAmount": 60,
+        "metricUnit": "g",
+        "item": "Grated English cucumber, squeezed dry"
+      }
+    ],
+    "instructions": [
+      "Pat lamb chops dry with paper towels. Rub with olive oil and coat generously with Yaji Suya spice.",
+      "Heat a cast-iron skillet or grill pan over high heat until smoking hot.",
+      "Sear lamb chops for 3-4 minutes per side for medium-rare, building a deep spiced crust.",
+      "Rest lamb chops for 5 minutes under foil tent.",
+      "Whisk Greek yogurt, grated cucumber, lemon juice, and fresh mint in a bowl.",
+      "Serve hot lamb chops over the cool yogurt sauce with extra sliced red onions!"
+    ],
+    "tips": "Preheating your cast iron skillet until smoking hot ensures a deep crispy suya crust while keeping the lamb tender inside.",
+    "nutrition": {
+      "calories": 490,
+      "protein": "38g",
+      "carbs": "6g",
+      "fat": "34g"
+    },
+    "reviews": [
+      {
+        "id": "rev-6",
+        "userName": "David R.",
+        "rating": 5,
+        "date": "2026-08-28",
+        "comment": "Incredible flavor profile! The Yaji crust with the cool mint yogurt is pure genius."
+      }
+    ]
+  }
+]
