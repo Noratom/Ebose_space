@@ -9,10 +9,15 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const DATA_FILE = path.join(__dirname, 'data', 'recipes.json');
-const SUBSCRIBERS_FILE = path.join(__dirname, 'data', 'subscribers.json');
-const SITE_CONTENT_FILE = path.join(__dirname, 'data', 'siteContent.json');
-const TAXONOMIES_FILE = path.join(__dirname, 'data', 'taxonomies.json');
+const DATA_DIR = path.join(__dirname, 'data');
+if (!fs.existsSync(DATA_DIR)) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+}
+
+const DATA_FILE = path.join(DATA_DIR, 'recipes.json');
+const SUBSCRIBERS_FILE = path.join(DATA_DIR, 'subscribers.json');
+const SITE_CONTENT_FILE = path.join(DATA_DIR, 'siteContent.json');
+const TAXONOMIES_FILE = path.join(DATA_DIR, 'taxonomies.json');
 
 app.use(cors());
 app.use(express.json());
